@@ -117,4 +117,11 @@ Diagrams and graphs if required
 ## test_FileName.py: 
 This file includes the test cases for each file if required in the form of a pytest class. 
 
+# Progress Reporting
+Weekly meetings to discuss progress, challenges, and next steps. The team will aloso write weekly reports to make sure the project is gooing as planned
+
+# Phase 2 Considerations (Optional)
+
+Assess the feasibility, required resources, and additional time needed to integrate a neural network for decision-making based on the outcomes of phase 1.
+This project management plan provides a structured approach to developing your chess engine, emphasizing learning, algorithmic challenge, and potential scalability. As the project progresses, it's important to remain flexible and adjust the plan based on lessons learned and any unforeseen challenges.
 
