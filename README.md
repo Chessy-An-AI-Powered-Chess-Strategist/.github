@@ -16,7 +16,7 @@ Set within a tight timeframe of three weeks, our team is committed to delivering
 
 
 # Project Overview
-Chessy is an AI powered chess engnine desinged to play chess rapidly on platforms like chess.com. 
+Chessy is an AI powered chess engine desinged to play chess rapidly on platforms like chess.com. 
 
 
 ## Objective
