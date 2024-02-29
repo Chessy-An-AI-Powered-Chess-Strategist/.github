@@ -20,7 +20,7 @@ Chessy is an AI powered chess engine desinged to play chess rapidly on platforms
 
 
 ## Objective
-To develop a chess engine that utilizes a tree structure to map out possible moves ahead (e.g., depth 4 for four moves ahead) and uses an algorithm to evaluate each move based on positioning and pieces. The engine will leverage a database of 3.5 million games for decision-making, with future phases to include API development for playing on chess platforms and possibly integrating a neural network for decision-making.
+To develop a chess engine that utilizes a tree structure to map out possible moves ahead (e.g., depth 4 for four moves ahead) and uses an algorithm to evaluate each move based on board positioning and piece values. The engine will leverage a database of 3.5 million games for decision-making, with future phases to include API development for playing on chess platforms and possibly integrating a neural network for decision-making.
 ## Goal
 To learn and challenge the capabilities of tree structures, algorithms, and potentially neural networks in game strategy development.
 # Scope
